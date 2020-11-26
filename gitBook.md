@@ -13,7 +13,7 @@ Social Academy es una red social en donde puedes conectar con tus mejores para g
 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://social-academic-2020.herokuapp.com/)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://socialacademy.azurewebsites.net)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://socialacademy.azurewebsites.net/)
 
 
 ## Manual de uso de la aplicación 📜 
