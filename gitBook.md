@@ -16,12 +16,12 @@ Social Academy es una red social en donde puedes conectar con tus mejores para g
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://socialacademy.azurewebsites.net)
 
 
-## Manual de uso 📜
+## Manual de uso de la aplicación 📜 
 
 >En la pantalla principal hay dos opciones, la primera es para iniciar sesión, la segunda para registrarse.
 Para registrarse de click en el botón de registrar, luego de esto le va a pedir unas opciones como: Nombre, Apellido, correo, entre otras, debe llenar todos los campos y luego de llenar los campos de click en registrar.
 
-> ![](images/registro.png)
+> ![](https://github.com/cvillamiljr/GitBook/blob/master/images/registro.png)
 
 >Una vez este registrado de click en la opción de ingresar, en esta opción aparecerán dos campos por llenar uno es el de correo y el otro es el de la contraseña. Una vez llene estos datos de click en el botón de Login Now y este lo va a direccionar a su muro.
 
