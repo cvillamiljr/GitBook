@@ -33,6 +33,17 @@ Para registrarse de click en el botón de registrar, luego de esto le va a pedir
 
 > ![](https://github.com/cvillamiljr/GitBook/blob/master/images/timeline.png)
 
+> Una vez realizada una publicación se puede reaccionar a la misma, dandole click al me gusta o al no me gusta:
+
+> ![](https://github.com/cvillamiljr/GitBook/blob/master/images/reaccionOk.png)
+
+> Tambien se pueden realizar comentarios a cualquier publicación, de la siguiente manera:
+
+> ![](https://github.com/cvillamiljr/GitBook/blob/master/images/comentario.png)
+
+> ![](https://github.com/cvillamiljr/GitBook/blob/master/images/comentarioOk.png)
+
+
 > En la parte superior al lado de la foto, usted encontrara un panel con distintas opciones estas opciones lo llevaran a otros lugares de la aplicación dependiendo a cuál quiera ir. 
 Además en la parte superior también va a tener distintas opciones como principal, biografía, chats y cerrar sesión.
 
@@ -41,6 +52,14 @@ Además en la parte superior también va a tener distintas opciones como princip
 > Si da click en la parte de información encontrará como primera opción la información básica, esta información usted la puede modificar y hay distintos campos como nombre, país, fecha de nacimiento, entre otras. Después de llenar los datos podrá guardar los cambios en el botón de guardar.
 
 > ![](https://github.com/cvillamiljr/GitBook/blob/master/images/informacion_basica.png)
+
+> Si da click sobre la vista sobre mi, encontrara sentitizada toda la información que le brindo a la aplicacion en toda la vista de información basica e información de trabajo.
+
+> ![](https://github.com/cvillamiljr/GitBook/blob/master/images/sobremi.png)
+
+> Ademas de la información basica, tenemos un mapa donde ubica el lugar de residencia del usuario de la siguiente manera:
+
+> ![](https://github.com/cvillamiljr/GitBook/blob/master/images/mapa.png)
 
 
 > Si le da click en el botón de mensajes este lo redireccionara a una pantalla donde va a poder seleccionar sus amigos y los chats que tiene con el amigo seleccionado
@@ -54,6 +73,14 @@ Además en la parte superior también va a tener distintas opciones como princip
 > En esta vista podrá ver cuáles son sus amigos y podrá darle click en abrir su chat con cada usuario.
 
 > ![](https://github.com/cvillamiljr/GitBook/blob/master/images/amigos_chat.png)
+
+> Una vez se encuentre en la vista de mensajes podra seleccionar el chat con el amigo que desee de la siguiente manera.
+
+> > ![](https://github.com/cvillamiljr/GitBook/blob/master/images/mensajes.png)
+
+> Se le abrirá una ventana de chat como la siguiente
+
+> ![](https://github.com/cvillamiljr/GitBook/blob/master/images/chats.png)
 
 > En la parte superior derecha encontrara la opción de cerrar sesión.
 
